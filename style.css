@@ -1,0 +1,6 @@
+body {
+  background-image: -webkit-gradient(linear, from(#000000), to(#fc0000));
+  height: 1000px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+}

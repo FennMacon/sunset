@@ -47,6 +47,8 @@ body {
     opacity: 0.8;
     position: absolute;
     z-index: 1; 
+    width: 100%;
+    height: auto;
     -webkit-animation-name: move;
     -webkit-animation-duration: 420s;
     -webkit-animation-iteration-count: infinite;
@@ -57,6 +59,8 @@ body {
     opacity: 0.3;
     position: absolute;
     z-index: 3; 
+    width: 100%;
+    height: auto;
     -webkit-animation-name: move;
     -webkit-animation-duration: 420s;
     -webkit-animation-iteration-count: infinite;
@@ -67,6 +71,8 @@ body {
     opacity: 0.15;
     position: absolute;
     z-index: 5; 
+    width: 100%;
+    height: auto;
     -webkit-animation-name: move;
     -webkit-animation-duration: 420s;
     -webkit-animation-iteration-count: infinite;
@@ -78,6 +84,6 @@ body {
         margin-top: 0px;
     }
     100% {
-        margin-top: -25000px;
+        margin-top: -10000px;
     }
 }
